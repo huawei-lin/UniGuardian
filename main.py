@@ -1,6 +1,5 @@
 import sys
 import re
-sys.path.insert(0, '/cluster/home/wzhao02/hl3352/backdoor_detection/LLMs_backdoor_detection')
 from src.data_loader import read_data
 from src.utils import generate_indices_tuples, get_config
 from src.backdoor_detector import BackdoorDetector
