@@ -13,6 +13,5 @@ pip install -r requirements.txt
 
 Here’s an example command to execute the program. Make sure to replace the placeholders with actual paths.
 ```
-python main.py \
-    --config_path ./config.json
+python main.py --config_path ./config.json
 ```
